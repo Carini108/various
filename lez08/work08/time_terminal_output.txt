@@ -1,0 +1,35 @@
+.
+.
+.
+SA cooling step: 166    0.809671        0.614119
+SA cooling step: 166    0.809671        0.614119
+SA cooling step: 166    0.809671        0.614119
+SA cooling step: 166    0.809671        0.614119
+====================================================
+SA cooling step: 167 out of 167
+====================================================
+SA cooling step: 167    0.809671        0.614119
+Acceptance = 0.528814
+Best mu = 0.809671
+Best sigma = 0.614119
+
+=============== Part 4 ===================
+========  use the VMC parameters  ========
+
+Block 50
+Block 100
+Block 150
+Block 200
+Block 250
+Block 300
+Saving block results to file...
+Data blocking...
+Energy estimate using:  mu = 0.809671   sigma = 0.614119
+        E = -0.442051 +- 0.00231343
+Saving progressive averages and errors to file...
+
+================= END ====================
+
+real    52m22.790s
+user    49m36.531s
+sys     0m8.375s
